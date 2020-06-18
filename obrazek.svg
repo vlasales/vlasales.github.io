@@ -19,9 +19,9 @@
 </radialGradient>
 </defs>
 <g fill-opacity=".5" stroke-width="4">
-<circle cx="108" cy="108.5" r="100" fill="#0ff" stroke="#0ff"/>
-<circle cx="157.3" cy="209.5" r="100" fill="#ff0" stroke="#ff0"/>
-<circle cx="209.2" cy="109.5" r="100" fill="#f0f" stroke="#f0f"/>
+<circle cx="108" cy="108.5" r="100" fill="#00f" stroke="#0ff"/>
+<circle cx="157.3" cy="209.5" r="100" fill="#f00" stroke="#ff0"/>
+<circle cx="209.2" cy="109.5" r="100" fill="#0f0" stroke="#f0f"/>
 </g>
 <rect x="357.2" y="7.53" width="250" height="150" rx="41.429" fill="url(#g)" stroke="#000" stroke-width="4" stroke-dasharray="8 4"/>
 <text x="405.11" y="106.51" font-family="Bitstream Vera Sans" font-size="72" font-style="oblique" font-weight="700" fill="#fff" fill-opacity=".5" stroke="#000" stroke-width="3" stroke-dasharray="6 3">SVG</text>
